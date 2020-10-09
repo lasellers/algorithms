@@ -2,7 +2,7 @@
 
 This is a collection of Jupyter Notebooks with various algorithm implimentations. Most of the algs are python, but a few may be ES6+ Javascript.
 
-Over time this should grow fairly large as the pythons notebooks make for an excellent place to experiment and leave my self algorthim notes for later.
+Over time this should grow fairly large as the python notebooks make for an excellent place to experiment and leave myself algorithm notes for later.
 
 
 ## Installing / Running / Viewing
