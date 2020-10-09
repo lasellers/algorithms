@@ -4,7 +4,7 @@ This is a collection of Jupyter Notebooks with various algorithm implimentations
 
 ## Installing / Running
 
-You can view the notebooks in read-only fashion simply by clicking onthem from the github repo. Github has a read for them.
+You can view the notebooks in read-only fashion simply by clicking on them from the github repo. Github has a read for them.
 To actually interactivly run them though, you have to install Jupyter first alnog with Python. It's not difficult. See: https://jupyter.org/install
 
 ## Versions
