@@ -5,10 +5,11 @@ This is a collection of Jupyter Notebooks with various algorithm implimentations
 Over time this should grow fairly large as the pythons notebooks make for an excellent place to experiment and leave my self algorthim notes for later.
 
 
-## Installing / Running
+## Installing / Running / Viewing
 
-You can view the notebooks in read-only fashion simply by clicking on them from the github repo. Github has a read for them.
-To actually interactivly run them though, you have to install Jupyter first alnog with Python. It's not difficult. See: https://jupyter.org/install
+You can view the notebooks in read-only fashion simply by clicking on them from the github repo. Github has a reader plugin for them.
+To actually interactively run them though, you will have to install Jupyter first along with Python. It's not difficult. See: https://jupyter.org/install
+
 
 ## Versions
 * v1.0 Oct 9th 2020.
